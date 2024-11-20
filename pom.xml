@@ -26,21 +26,6 @@
             <id>vaadin-addons</id>
             <url>https://maven.vaadin.com/vaadin-addons</url>
         </repository>
-        <repositories>
-    <repository>
-        <id>central</id>
-        <name>JFrog Artifactory Releases</name>
-        <url>https://tamildevops.jfrog.io/artifactory/dev-libs-release</url>
-    </repository>
-</repositories>
-
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>JFrog Artifactory Releases</name>
-        <url>https://tamildevops.jfrog.io/artifactory/dev-libs-release</url>
-    </repository>
-</distributionManagement>
     </repositories>
 
     <dependencies>
